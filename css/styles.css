@@ -1,0 +1,141 @@
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+
+p {
+    color: #40514E;
+    line-height: 2;
+}
+
+hr {
+    width: 5%;
+    border-style: dotted;
+    border-width: 0.5rem 0 0 0;
+    border-color: lightgrey;
+}
+
+.top-container {
+    background-color: #e6efef;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+    background-color: #9fcdcd;
+    padding: 50px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 250px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 250px;
+}
+
+.profile {
+    margin: 100px auto 100px auto;
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+}
+
+.skills {
+    margin: 100px auto 100px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: start;
+}
+
+.prog-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.course-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me {
+    margin: 100px auto 100px auto;
+}
+
+.contact-description {
+    width: 40%;
+    margin: 50px auto 50px auto;
+}
+
+.btn {
+    border-radius: 30px;
+    background-color: #EAF6F6;
+    transition: background-color 0.5s;
+    font-size: 1.2rem;
+    padding: 5px 20px 5px 20px;
+}
+
+.btn:hover {
+    background-color: #9fcdcd;
+}
+
+.footer-link {
+    margin: 0 30px 0 30px;
+    transition: color 0.5s;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+.copyright {
+    margin: 30px auto 0 auto;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+
