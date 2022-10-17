@@ -1,2 +1,2 @@
 # CSS Portfolio
- A portfolio created using HTML and CSS.
+A single-page [portfolio](https://tianyuchen01.github.io/css-portfolio/) created using HTML and CSS.
